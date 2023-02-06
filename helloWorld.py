@@ -1,2 +1,2 @@
 #This is Version 1 of my hello world program
-print("Hello my name is Gillian")
+print("Hello my name is Gillian Bedward")
